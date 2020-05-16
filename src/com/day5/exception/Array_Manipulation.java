@@ -13,7 +13,8 @@ public class Array_Manipulation {
     static long arrayManipulation(int n, int[][] queries) {
     	int[] value = new int[n];
     	int max = 0;
- 
+    	
+    	// max °ª Ã£±â
     	for(int i = 0; i < queries.length; i++)
     	{
     		int j = queries[i][0] -1;
