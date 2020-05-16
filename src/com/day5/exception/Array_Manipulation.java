@@ -14,7 +14,8 @@ public class Array_Manipulation {
     	int[] value = new int[n];
     	int max = 0;
     	
-    	// max °ª Ã£±â
+    	// max ê°’ ì°¾ê¸°
+    	// ê°’ ì°¾ê¸°
     	for(int i = 0; i < queries.length; i++)
     	{
     		int j = queries[i][0] -1;
