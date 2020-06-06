@@ -32,7 +32,6 @@ public class Array_Manipulation {
     			max = value[i];
     	}
     	
-    	
     	return max;
     }
 
